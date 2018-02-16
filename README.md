@@ -4,7 +4,7 @@ CRUD with Maven, Spring, Hibernate, MySQL
 
 Schema: test
 
-Table: users
+Table: book
 
 Login: root
 
